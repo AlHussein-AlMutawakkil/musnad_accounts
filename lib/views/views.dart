@@ -1,0 +1,16 @@
+export 'accounts/account_statement_view.dart';
+export 'accounts/accounts_list_view.dart';
+export 'accounts/add_account_dialog.dart';
+export 'categories/add_category_dialog.dart';
+export 'categories/categories_view.dart';
+export 'categories/category_management_dialog.dart';
+export 'currencies/add_currency_dialog.dart';
+export 'currencies/currencies_view.dart';
+export 'currencies/currency_management_dialog.dart';
+export 'dashboard/dashboard_view.dart';
+export 'main_shell/main_shell_view.dart';
+export 'more/more_view.dart';
+export 'operations/operations_view.dart';
+export 'reports/reports_view.dart';
+export 'transactions/add_transaction_view.dart';
+export 'transfers/transfer_view.dart';
